@@ -31,5 +31,12 @@
         android:elevation="2dp"
         >
 
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="201dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            app:srcCompat="@drawable/qs_250px_100k" />
+
     </FrameLayout>
 </LinearLayout>
